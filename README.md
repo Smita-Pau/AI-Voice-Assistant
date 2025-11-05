@@ -38,5 +38,3 @@ python voice_assistant.py
 - "Open ChatGPT"
 - "Exit" / "Thanks"
 
-###  Description (for GitHub)
-A voice-controlled assistant that recognizes speech, opens apps/websites, performs Google searches, and gives spoken responses using Python.
